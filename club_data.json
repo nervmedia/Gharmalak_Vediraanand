@@ -1,0 +1,291 @@
+{
+  "members": [
+    {
+      "phone": "9823000001",
+      "name": "Priya Deshmukh",
+      "area": "Dharampeth",
+      "home": "house",
+      "interests": [
+        "solar"
+      ],
+      "lang": "en",
+      "createdAt": "2026-10-29T00:00:00Z"
+    },
+    {
+      "phone": "9823773651",
+      "name": "Vikram Deshpande",
+      "area": "Nagpur",
+      "home": "house",
+      "interests": [
+        "solar"
+      ],
+      "lang": "en",
+      "createdAt": "2026-10-31T13:50:19.662Z"
+    },
+    {
+      "phone": "9823713243",
+      "name": "Vikram Deshpande",
+      "area": "Nagpur",
+      "home": "house",
+      "interests": [
+        "solar"
+      ],
+      "lang": "en",
+      "createdAt": "2026-10-31T13:51:50.009Z"
+    },
+    {
+      "phone": "9823110561",
+      "name": "Vikram Deshpande",
+      "area": "Nagpur",
+      "home": "house",
+      "interests": [
+        "solar"
+      ],
+      "lang": "en",
+      "createdAt": "2026-10-31T13:53:16.112Z"
+    }
+  ],
+  "optins": [
+    "9823000001",
+    "9823110561"
+  ],
+  "dealInterests": [],
+  "solarInterests": [
+    {
+      "roundId": "solar-round-1",
+      "roundNumber": 1,
+      "roundLabel": "Solar Round 1",
+      "interestLabel": "Interest in Solar Round 1",
+      "optInSchedule": "January – February",
+      "phone": "8551858546",
+      "name": "RB",
+      "city": "Nagpur",
+      "consent": true,
+      "source": "solar-round-interest-modal",
+      "createdAt": "2026-10-31T09:33:04.404Z"
+    }
+  ],
+  "vendorApplications": [
+    {
+      "applicationId": "GM-VND-NAG-0001",
+      "businessName": "Vidarbha Solar & Waterproofing Co.",
+      "contactPerson": "Amit Kulkarni",
+      "businessType": "Private Limited Company",
+      "yearOfEstablishment": "2017",
+      "businessEmail": "amit@vidarbhasolar.in",
+      "mobileNumber": "9823456789",
+      "whatsappNumber": "9823456789",
+      "businessWebsite": "https://vidarbhasolar.in",
+      "socialProfile": "",
+      "city": "Nagpur",
+      "businessAddress": "Plot 18, Bajaj Nagar, Central Bazar Road, Nagpur",
+      "pinCode": "440010",
+      "areasServed": "Dharampeth, Pratap Nagar, Manish Nagar, Civil Lines",
+      "serviceCategories": [
+        "Rooftop Solar",
+        "Waterproofing",
+        "Other"
+      ],
+      "otherServiceDescription": "Solar Water Heating & Heat Pumps",
+      "experience": "5–10 years",
+      "completedProjectsCount": "240+ homes",
+      "teamSizeCount": "18 technicians",
+      "businessDescription": "MNRE-certified residential solar and terrace waterproofing contractor serving Nagpur and Wardha.",
+      "brandsWorkedWith": "Tata Power Solar, Dr. Fixit, Asian Paints",
+      "providesWarranty": "Yes",
+      "installationTeamType": "Yes",
+      "documents": [],
+      "submissionDate": "2026-10-31T13:15:39.875Z",
+      "applicationStatus": "New Application"
+    }
+  ],
+  "memberAccounts": [
+    {
+      "memberId": "GM · 0001 · NGP",
+      "name": "Priya Deshmukh",
+      "mobileNumber": "9823000001",
+      "whatsappNumber": "9823000001",
+      "email": "priya@gharmalak.com",
+      "city": "Nagpur",
+      "pinCode": "440010",
+      "area": "Dharampeth",
+      "homeType": "house",
+      "interests": [
+        "solar"
+      ],
+      "passwordSalt": "seed-salt-priya-2026",
+      "passwordHash": "3d9aad33eb232b5b19000bb12a2b51ebbf7b8f7adb395420ff4992046a39c531a5cb92fee9f2392fbd20e8b191ce4afc5ea1bb16aeccecffaff28cfcfc763761",
+      "membershipStartDate": "2026-10-29T00:00:00.000Z",
+      "membershipExpiryDate": "2027-10-29T00:00:00.000Z",
+      "paymentStatus": "Paid",
+      "membershipStatus": "Active",
+      "unlockedDeals": [
+        "rooftop-solar"
+      ],
+      "solarOptInRounds": [
+        1
+      ],
+      "createdAt": "2026-10-29T00:00:00.000Z",
+      "updatedAt": "2026-10-29T00:00:00.000Z"
+    },
+    {
+      "memberId": "GM · 0002 · NGP",
+      "name": "Vikram Deshpande",
+      "mobileNumber": "9823985666",
+      "whatsappNumber": "9823985666",
+      "email": "vikram.9823985666@example.com",
+      "city": "Nagpur",
+      "pinCode": "440010",
+      "area": "Nagpur",
+      "homeType": "house",
+      "interests": [
+        "solar"
+      ],
+      "passwordSalt": "2bf17fafff3b86015514951f8bbfe665",
+      "passwordHash": "1238e6d8f92c82dea4a0e016685bf822a7a8ded0333436df113d43f124d95ef077d807d3a5e5bb8132987e76dfd334159a0b3680f40b1c370bed26b7e90e59c9",
+      "membershipStartDate": null,
+      "membershipExpiryDate": null,
+      "paymentStatus": "Pending",
+      "membershipStatus": "Payment Pending",
+      "unlockedDeals": [],
+      "solarOptInRounds": [],
+      "createdAt": "2026-10-31T13:48:26.346Z",
+      "updatedAt": "2026-10-31T13:48:26.346Z"
+    },
+    {
+      "memberId": "GM · 0003 · NGP",
+      "name": "Vikram Deshpande",
+      "mobileNumber": "9823773651",
+      "whatsappNumber": "9823773651",
+      "email": "vikram.9823773651@example.com",
+      "city": "Nagpur",
+      "pinCode": "440010",
+      "area": "Nagpur",
+      "homeType": "house",
+      "interests": [
+        "solar"
+      ],
+      "passwordSalt": "222f45b50afa91a4ddcc86ade45e5e0f",
+      "passwordHash": "e63ad43333c3762fd69c622151ed050cba20765910cdec9ed7e7c9e3a045df2f37337a5052aa4536d7a092af437cabbee22298c7a352c11b5afa01b709a4ce33",
+      "membershipStartDate": "2026-10-31T13:50:19.662Z",
+      "membershipExpiryDate": "2027-10-31T13:50:19.662Z",
+      "paymentStatus": "Paid",
+      "membershipStatus": "Active",
+      "unlockedDeals": [],
+      "solarOptInRounds": [],
+      "createdAt": "2026-10-31T13:50:18.909Z",
+      "updatedAt": "2026-10-31T13:50:19.662Z"
+    },
+    {
+      "memberId": "GM · 0004 · NGP",
+      "name": "Vikram Deshpande",
+      "mobileNumber": "9823713243",
+      "whatsappNumber": "9823713243",
+      "email": "vikram.9823713243@example.com",
+      "city": "Nagpur",
+      "pinCode": "440010",
+      "area": "Nagpur",
+      "homeType": "house",
+      "interests": [
+        "solar"
+      ],
+      "passwordSalt": "8ec46bf3493a06bcd2c3039338ed6f60",
+      "passwordHash": "a495f5e86e175a796e5193f832d748f7441d5a09d07d736dde75e5cc80b46eae77a92d1877d6556d1bd1f1afeb75e7dbd3f69038987f28edf89c587fe41eae4b",
+      "membershipStartDate": "2026-10-31T13:51:50.009Z",
+      "membershipExpiryDate": "2027-10-31T13:51:50.009Z",
+      "paymentStatus": "Paid",
+      "membershipStatus": "Active",
+      "unlockedDeals": [],
+      "solarOptInRounds": [],
+      "createdAt": "2026-10-31T13:51:49.211Z",
+      "updatedAt": "2026-10-31T13:51:50.009Z"
+    },
+    {
+      "memberId": "GM · 0005 · NGP",
+      "name": "Vikram Deshpande",
+      "mobileNumber": "9823110561",
+      "whatsappNumber": "9823110561",
+      "email": "vikram.9823110561@example.com",
+      "city": "Nagpur",
+      "pinCode": "440010",
+      "area": "Nagpur",
+      "homeType": "house",
+      "interests": [
+        "solar"
+      ],
+      "passwordSalt": "46cc23ddd04e66e146e2cf9122b43cc7",
+      "passwordHash": "bb4bbfc2c2ad92ac50f46e981e0857915528a2ddc60b568a626ad0eeb3cbaea06d1ab0848e741a2157584fcdfc61fcf59782ed0ee8acf31eb5fb1d947b3a695f",
+      "membershipStartDate": "2026-10-31T13:53:16.112Z",
+      "membershipExpiryDate": "2020-01-01T00:00:00.000Z",
+      "paymentStatus": "Paid",
+      "membershipStatus": "Expired",
+      "unlockedDeals": [],
+      "solarOptInRounds": [
+        2
+      ],
+      "createdAt": "2026-10-31T13:53:15.344Z",
+      "updatedAt": "2026-10-31T13:53:17.416Z"
+    }
+  ],
+  "paymentOrders": [
+    {
+      "orderId": "GM-ORD-1793454506414-422",
+      "memberId": "GM · 0002 · NGP",
+      "amountInr": 499,
+      "purpose": "new-membership",
+      "status": "Pending",
+      "createdAt": "2026-10-31T13:48:26.346Z",
+      "updatedAt": "2026-10-31T13:48:26.346Z"
+    },
+    {
+      "orderId": "GM-ORD-1793454619060-779",
+      "memberId": "GM · 0003 · NGP",
+      "amountInr": 499,
+      "purpose": "new-membership",
+      "status": "Paid",
+      "createdAt": "2026-10-31T13:50:18.909Z",
+      "updatedAt": "2026-10-31T13:50:19.662Z",
+      "paymentMethod": "UPI",
+      "paymentReference": "GM-PAY-MVWGKP3I"
+    },
+    {
+      "orderId": "GM-ORD-1793454709289-430",
+      "memberId": "GM · 0004 · NGP",
+      "amountInr": 499,
+      "purpose": "new-membership",
+      "status": "Paid",
+      "createdAt": "2026-10-31T13:51:49.211Z",
+      "updatedAt": "2026-10-31T13:51:50.009Z",
+      "paymentMethod": "UPI",
+      "paymentReference": "GM-PAY-MVWGMMT5"
+    },
+    {
+      "orderId": "GM-ORD-1793454795394-869",
+      "memberId": "GM · 0005 · NGP",
+      "amountInr": 499,
+      "purpose": "new-membership",
+      "status": "Paid",
+      "createdAt": "2026-10-31T13:53:15.344Z",
+      "updatedAt": "2026-10-31T13:53:16.112Z",
+      "paymentMethod": "UPI",
+      "paymentReference": "GM-PAY-MVWGOH8W"
+    }
+  ],
+  "propertyEnquiries": [
+    {
+      "enquiryId": "VA-ENQ-202611-0001",
+      "projectName": "Vedira Anand",
+      "developerName": "WallStone Realty Pvt. Ltd.",
+      "fullName": "Anand Deshmukh",
+      "mobileNumber": "9823000002",
+      "whatsappNumber": "9823000002",
+      "email": "anand@example.com",
+      "preferredApartment": "2 BHK",
+      "budget": "Price on Request",
+      "additionalRequirements": "Interested in 3rd floor flat",
+      "city": "Nagpur",
+      "status": "New",
+      "createdAt": "2026-11-01T08:26:00.854Z"
+    }
+  ]
+}

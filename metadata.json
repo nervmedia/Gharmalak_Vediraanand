@@ -1,0 +1,6 @@
+{
+  "name": "Gharmalak · Homeowners’ Club, Nagpur",
+  "description": "A club of Nagpur homeowners. One group deal a month, a price set by 10 local quotes, and verified vendors who must beat it by 10%. Launch price ₹499 a year (regular ₹999).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
